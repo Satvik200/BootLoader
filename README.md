@@ -18,7 +18,7 @@ For Windows Subsystem for Linux or Ubuntu, use command `sudo apt-get install nas
 
 1. Clone the project
 ```bash
-    git clone https://<project-link>
+    git clone https://github.com/Satvik200/BootLoader.git
 ```
 
 2. Go to the directory of the bootloader that you want to run
